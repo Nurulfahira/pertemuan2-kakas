@@ -9,6 +9,6 @@ use Illuminate\Routing\Controller as BaseController;
 
 class Controller extends BaseController
 {
-    Pao pao vs limbung
+    Pao pao vs limbung engku ajha
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
